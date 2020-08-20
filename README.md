@@ -4,4 +4,4 @@
 
 EC_mindmap
 
-![Image](https://github.com/KangJingHao/CRM_Analyatics/blob/master/EC_mindmap.png)
+![Image](https://github.com/KangJingHao/CRM_Analyatics/blob/master/Image%2013.png)
